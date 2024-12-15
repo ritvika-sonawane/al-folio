@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <div><a href="https://leetcode.com/u/autumnpizza007/" target="_blank" title="LeetCode"><i class="si si-leetcode"></i></a></div>
+subtitle: 
 
 profile:
   align: right
