@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ritvika-sonawane
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - ritvika-sonawane/flwr-embedded-example
+  - ritvika-sonawane/group-project-f24-modeling-wizards
+  - hrishikeshgokhale01/IDL_Project
+  # mytorch
+  # llama2-7b
