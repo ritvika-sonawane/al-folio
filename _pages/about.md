@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='mailto:rsonawan@andrew.cmu.edu'>rsonawan@andrew.cmu.edu</a>
+subtitle: <div><a href="https://leetcode.com/u/autumnpizza007/" class="si si-leetcode"></a></div>
 
 profile:
   align: right
